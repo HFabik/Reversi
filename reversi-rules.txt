@@ -1,0 +1,10 @@
+Rules of Reversi ----
+
+You must place one tile each turn in a way that it will flip
+one or more of your opponents tiles.
+Your opponent's tiles can only be flipped if they are
+surrounded by your tiles.
+The goal of the game is to get the most tiles of your colour 
+on the board. 
+If you have no possible moves, your turn will be skipped.
+The gray tiles are a guide to show your possible moves. 
